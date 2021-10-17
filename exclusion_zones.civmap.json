@@ -213,8 +213,7 @@
 			"notes": "Hjaltland South Border Vault. https://civwiki.org/wiki/Vault#Eternity_(Hjaltland)",
 			"id": "868265b7-e3f8-47dd-b4e4-057d88af5d28",
 			"rectangle": [
-				[-500, 12500],
-				[500, 13000]
+				[-1000,12000],[1000,13000]
 			]
 		},
 		{
